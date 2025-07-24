@@ -30,7 +30,7 @@ Images generated:
 - `repo_distribution.png`
 - `pr_rejection_rate.png`
 
-## 🚀 How to Run
+How to Run
 
 1. Clone the repo
 2. Replace the GitHub token in *repocollecter.py
